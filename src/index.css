@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+  margin: 0;
+  background-color: #1f4924;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+
+#basalt-canvas-id {
+  width: 1200px;
+  height: 600px;
+}
